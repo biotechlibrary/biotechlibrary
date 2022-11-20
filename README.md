@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @biotechlibrary
-- 👀 I’m interested in computational neuroscience, bioinformatics, AR/XR/VR, and cognitive UX research.
-- 🌱 I’m currently getting an MSc in biotechnology while working full time in a tech startup.
-- 💞️ I’m looking to collaborate on things that make life easier!
-- 📫 Contact me at pau.rotger8@gmail.com or protger1@jhu.edu.
-
+- My work revolves around using computer vision and machine learning to improve clinical data analysis. I am particularly interested in volume rendering and big data. 
+- You may contact me at pau.rotger8@gmail.com.
+- Also, please do understand that my repositories are not representative of my code. My current role is in data engineering, which means I am building structures around sensitive information. 
+- Here you can find some tools to aid the nuances of research. 
 <!---
 biotechlibrary/biotechlibrary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
