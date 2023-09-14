@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @biotechlibrary
 
-- My work revolves around using computer vision and machine learning to improve biological research. I am particularly interested in computational neuroscience, machine learning and computer vision. 
+- I am a bioengineer wearing many hats. 
 - **You may contact me at pau.rotger8@gmail.com.**
 
 ## Here you can find some tools for:
